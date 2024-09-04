@@ -1,0 +1,80 @@
+body{
+	background-color: darkcyan;
+}
+.container{
+	background-color: lightblue;
+	width: 1000px;
+	height: 900px;
+	margin-left: 260px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.TITLE {
+	margin-left: 430px;
+	padding-left: 25px;
+	margin-right: 400px;
+	background-color: greenyellow;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.Quote {
+	margin-left: 417px;
+	margin-right: 390px;
+	text-align: center;
+	background-color: greenyellow;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.Link p {
+	margin-top: 90px;
+	margin-right: 850px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+.Link {
+	background-color: greenyellow;
+	margin-right: 850px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin-left: 20px;
+	height: 400px;
+
+}
+.IMG .first {
+	margin-top: -500px;
+	width: 250px;
+	margin-left: 250px;
+	margin-bottom: 200px;
+}
+.IMG .second {
+	margin-top: -500px;
+	width: 250px;
+	margin-left: 550px;
+	margin-bottom: 218px;
+}
+.IMG .third {
+	margin-top: -200px;
+	width: 250px;
+	margin-left: 250px;
+	margin-bottom: 200px;
+}
+.IMG .fourth {
+	margin-top: -520px;
+	width: 250px;
+	margin-left: 550px;
+	margin-bottom: 218px;
+}
+.IMG .fifth {
+	margin-top: -200px;
+	width: 250px;
+	margin-left: 395px;
+	margin-bottom: 218px;
+}

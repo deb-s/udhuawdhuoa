@@ -1,0 +1,62 @@
+body{
+	background-color: darkcyan;
+}
+.container{
+	background-color: lightblue;
+	width: 1000px;
+	height: 900px;
+	margin-left: 260px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.TITLE {
+	margin-left: 430px;
+	padding-left: 25px;
+	margin-right: 400px;
+	background-color: greenyellow;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.Quote {
+	margin-left: 417px;
+	margin-right: 390px;
+	text-align: center;
+	background-color: greenyellow;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.Link p {
+	margin-top: 90px;
+	margin-right: 850px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+.Link {
+	background-color: greenyellow;
+	margin-right: 850px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin-left: 20px;
+	height: 400px;
+
+}
+.INFO {
+	background-color: greenyellow;
+	padding-left: 50px;
+	margin-left: 280px;
+	padding-right: 70px;
+	margin-right: 120px;
+	margin-top: -400px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
